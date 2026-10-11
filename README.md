@@ -30,12 +30,8 @@ $ ls itsakphyo
 │   └── PydanticAI          Jev (System One)    Local LLMs
 │
 ├── Infrastructure
-│   ├── PostgreSQL          Redis               Qdrant
-│   ├── Docker              Google Cloud        Cloud Run
-│   └── GitHub Actions      Traefik             Linux
-│
-└── Experience
-    ├── Backend - AI Engineer      GoCode Pte Ltd
-    ├── Backend - AI Engineer      Brillar Singapore
-    └── Data Analyst               Magnify Myanmar
+    ├── PostgreSQL          Redis               Qdrant
+    ├── Docker              Google Cloud        Cloud Run
+    └── GitHub Actions      Traefik             Linux
+
 ```
